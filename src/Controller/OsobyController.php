@@ -61,4 +61,8 @@ class OsobyController extends AbstractController
         
     }
 
+    public function test(){
+        return "hoj";
+    }
+
 }
